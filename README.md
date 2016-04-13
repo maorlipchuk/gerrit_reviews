@@ -1,7 +1,8 @@
 # gerrit_reviews
 Use "./add_reviewers.py --help" to know all the commands:
 Should give you the following output:
-  add_reviewers.py -r <reviewers_list> -v <true/false> -b <branch_name>, -s <true/false>
+
+add_reviewers.py -r <reviewers_list> -v <true/false> -b <branch_name>, -s <true/false>
 
 r is for a list of reviewers to add to the patch
 v is for verify flag
