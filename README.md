@@ -1,9 +1,6 @@
 # gerrit_reviews
 A python tool designed for oVirt gerrit to help add reviewers to your patches and add a verify flag.
 
-## Setup
-Make sure python is installed.
-
 ## Usage
 Use ```./add_reviewers.py --help``` to get an output of all the options available:
 
